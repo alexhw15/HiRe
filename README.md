@@ -1,3 +1,3 @@
-# Hierarchical Relational Learning for Few-shot Knowledge Graph completion
+# HiRe: Hierarchical Relational Learning for Few-shot KGC
 
 Codes will be released soon.
