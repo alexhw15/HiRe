@@ -15,7 +15,9 @@
 
 ### Data preparation
 
-Download Nell dataset from [github](https://github.com/alexhw15/HiRe/releases/download/ckpt/Nell-data-Hire.zip) and Wiki dataset from [github](https://github.com/alexhw15/HiRe/releases/download/ckpt/Wiki-data-Hire.zip.
+Download Nell dataset from [github](https://github.com/alexhw15/HiRe/releases/download/ckpt/Nell-data-Hire.zip) and Wiki dataset from [github](https://github.com/alexhw15/HiRe/releases/download/ckpt/Wiki-data-Hire.zip).
+
+Download pre-trained embedding [Nell](https://drive.google.com/file/d/1XXvYpTSTyCnN-PBdUkWBXwXBI99Chbps/view?usp=sharing) and [Wiki](https://drive.google.com/file/d/1_3HBJde2KVMhBgJeGN1-wyvW88gRU1iL/view?usp=sharing) and put them into the ```emb``` folder.
 
 
 #### Train and test script examples:
@@ -40,7 +42,9 @@ python main.py --dataset NELL-One --few 5 --prefix example-test-ckpt-nell --lear
 
 ## Checkpoints
 [Nell-One 1-shot](https://github.com/alexhw15/HiRe/releases/download/ckpt/hire_nell_shot_1_28.9.ckpt)
+
 [Nell-One 3-shot](https://github.com/alexhw15/HiRe/releases/download/ckpt/hire_nell_shot_3_30.8.ckpt)
+
 [Nell-One 5-shot](https://github.com/alexhw15/HiRe/releases/download/ckpt/hire_nell_shot_5_32.7.ckpt)
 
 ## Acknowledgement
