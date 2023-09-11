@@ -56,11 +56,11 @@ This repo is based on [MetaR](https://github.com/AnselCmy/MetaR) and [InfoNCE](h
 If you find this project useful in your research, please consider cite:
 
 ```bibtex
-@inproceedings{wu2022hierarchical,
+@inproceedings{wu2023hierarchical,
   title={Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion},
-  author={Wu, Han and Yin, Jie and Rajaratnam, Bala and Guo, Jianyuan},
-  booktitle={The Eleventh International Conference on Learning Representations},
-  year={2022}
+  author={Han Wu and Jie Yin and Bala Rajaratnam and Jianyuan Guo},
+  booktitle={The Eleventh International Conference on Learning Representations },
+  year={2023},
 }
 ```
 
